@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>resources/exit.ico</file>
+    <file>resources/linux_216px_1210908_easyicon.net.png</file>
+    <file>resources/Mac_Finder_256px_1180091_easyicon.net.png</file>
+    <file>resources/new.ico</file>
+    <file>resources/save.ico</file>
+    <file>resources/saveas.ico</file>
+    <file>resources/tittle.ico</file>
+    <file>resources/windows_704px_1210167_easyicon.net.png</file>
+    <file>resources/xdbcb8.ico</file>
+  </qresource>
+</RCC>
