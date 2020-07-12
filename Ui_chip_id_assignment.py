@@ -64,7 +64,7 @@ class Ui_chip_id_assignment(object):
 
     def retranslateUi(self, chip_id_assignment):
         _translate = QtCore.QCoreApplication.translate
-        chip_id_assignment.setWindowTitle(_translate("chip_id_assignment", "智芯D版抄控器修改MAC报文生成工具"))
+        chip_id_assignment.setWindowTitle(_translate("chip_id_assignment", "智芯D版抄控器修改MAC报文生成工具V1.0"))
         self.label.setText(_translate("chip_id_assignment", "MAC地址输入框："))
         self.le_mac.setPlaceholderText(_translate("chip_id_assignment", "输入12位MAC地址"))
         self.label_2.setText(_translate("chip_id_assignment", "生成的报文如下:"))
