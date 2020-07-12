@@ -19,7 +19,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>智芯D版抄控器修改MAC报文生成工具</string>
+   <string>智芯D版抄控器修改MAC报文生成工具V1.0</string>
   </property>
   <property name="windowIcon">
    <iconset resource="apprcc.qrc">
